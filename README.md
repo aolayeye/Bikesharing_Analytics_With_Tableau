@@ -12,11 +12,7 @@ Answers to these types of questions will help determine if a similar bike sharin
 
 ## Results
 
-
-#### https://public.tableau.com/views/D2_BikeSharing/NYCCitibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-
-[link to dashboard](https://public.tableau.com/views/D2_BikeSharing/NYCCitibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+[Link to Dashboard](https://public.tableau.com/views/D2_BikeSharing/NYCCitibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
 
 #### Customer Demography
 There were 2,344,224 trips in the month of August 
