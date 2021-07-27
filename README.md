@@ -56,3 +56,12 @@ short term customers generally have the same bike riding frequency throughout th
 
 ![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/67847583/127082658-f46671b0-f265-4f5a-b2f1-8d97528964d9.png)
 
+
+## Summary
+The analysis of the New York bike sharing data provided the follwoing insights:
+- the month of August is a good month for biking recording 2,344,224 trips
+- 81.09% of bike riders are annual customers
+- the ratio of male bike riders to female bike riders is 3:1
+- Thursdays between 5pm and 8pm is the peak period for the month of August
+
+We can further explore the bike sharing data to provide
