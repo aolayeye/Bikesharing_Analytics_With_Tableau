@@ -64,4 +64,6 @@ The analysis of the New York bike sharing data provided the follwoing insights:
 - the ratio of male bike riders to female bike riders is 3:1
 - Thursdays between 5pm and 8pm is the peak period for the month of August
 
-We can further explore the bike sharing data to provide
+##### Additional Analysis
+To provide further insight, we may perform the same set of analysis for multiple months which can give a trend for the different months of the year.
+Another visualization we may perform is to determine how many start stations are also end stations for the same trip
