@@ -11,6 +11,13 @@ The objective of the bikesharing analysis is to determine whether a bikesharing 
 Answers to these types of questions will help determine if a similar bike sharing business will be sucessful in Des moines IOWA.
 
 ## Results
+
+
+#### https://public.tableau.com/views/D2_BikeSharing/NYCCitibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+[link to dashboard](https://public.tableau.com/views/D2_BikeSharing/NYCCitibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "link to dashboard")
+
 #### Customer Demography
 There were 2,344,224 trips in the month of August 
 The usertype viz show that 18.93% are short term customers and 81.07% are annual customers. 
