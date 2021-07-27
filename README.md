@@ -69,6 +69,6 @@ The analysis of the New York bike sharing data provided the follwoing insights:
 
 ##### Additional Analysis
 1. To provide further insight, we may perform the same set of analyses for multiple months of the year.
- - This type of analysis can help determine any pattern or trend to the demand for bike-sharing services for the year.
+- This type of analysis can help determine any pattern or trend to the demand for bike-sharing services for the year
 2. Another visualization we may perform is determining how many start stations are also end stations for the same trip.
  - Knowing that a bike trip started and ended in the same location can help illuminate questions around the number of stations required for a specified geographic area.
