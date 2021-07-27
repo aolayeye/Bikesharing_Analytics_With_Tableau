@@ -30,6 +30,29 @@ In the month of August, we see the highest activity between 5pm and 6pm
 ![August_Peak_Hours](https://user-images.githubusercontent.com/67847583/127079901-f9b09c3d-41e4-49be-8189-dec288f9027b.png)
 
 #### Checkout Times for Users
+We see alot of bike sharing activity between 5pm and 8pm. More than 40 bikes are checked out for any where between 13 minutes and 59 minutes per hour between 5pm and 8pm.
+
+![Checkout_Times_for_Users](https://user-images.githubusercontent.com/67847583/127081465-379aac5c-18f0-42ae-a92e-601729c6bb31.png)
+
+#### Checkout Times by Gender
+Males appear to checkout for longer periods than females
+
+![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/67847583/127081546-90828861-053c-47f2-b6c3-8f254d94348c.png)
 
 
-![Checkout_Times_for_Users](https://user-images.githubusercontent.com/67847583/127080093-82f6bc60-bee5-4b1b-9a15-b96391733028.png)
+#### Trips by Weekday per Hour
+Thursdays 5pm to 6pm is the busiest day and time of the week
+
+![Trips_by_Weekday_by_Hour](https://user-images.githubusercontent.com/67847583/127082058-39d2fb3b-82ae-4cd7-98e3-ed82e7cb0ef0.png)
+
+#### Trips by Gender by Weekday per Hour
+The ratio of males riding bikes to females riding bikes on Thursdays between 5pm to 8pm is 3:1
+
+![Trips_by_Gender_by_Weekday_per_Hour](https://user-images.githubusercontent.com/67847583/127082250-6604089b-5cb6-4042-b3d6-c3ba28b948c2.png)
+
+#### User Trips by Gender by Weekday
+Suscribers are most active on Thursdays and Fridays
+short term customers generally have the same bike riding frequency throughout the week
+
+![User_Trips_by_Gender_by_Weekday](https://user-images.githubusercontent.com/67847583/127082658-f46671b0-f265-4f5a-b2f1-8d97528964d9.png)
+
