@@ -35,7 +35,7 @@ We see alot of bike sharing activity between 5pm and 8pm. More than 40 bikes are
 ![Checkout_Times_for_Users](https://user-images.githubusercontent.com/67847583/127081465-379aac5c-18f0-42ae-a92e-601729c6bb31.png)
 
 #### Checkout Times by Gender
-Males appear to checkout for longer periods than females
+There are more male bike riders than females
 
 ![Checkout_Times_by_Gender](https://user-images.githubusercontent.com/67847583/127081546-90828861-053c-47f2-b6c3-8f254d94348c.png)
 
