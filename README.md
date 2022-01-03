@@ -1,6 +1,6 @@
 # bikesharing
 ## Overview
-The objective of the bikesharing analysis is to determine whether a bikesharing venture will be successful. We would create tableau visualization from  New Yrk bikesharing data to amswer questions such as:
+The objective of the bikesharing analysis is to determine whether a bikesharing venture will be successful. We would create tableau visualization from  New York bikesharing data to amswer questions such as:
 - how many bike trips were recorded during the month of August?
 - what is the number of short-term customers and annual subscribers?
 - what is the demographics of bike riders in New York?
